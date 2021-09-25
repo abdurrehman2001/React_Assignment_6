@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&display=swap');
+
+.login-page{
+    font-family: "Faster One";
+    text-align: center;
+    font-size: 30px;
+    font-variant: small-caps;   
+}
+a{
+    text-decoration: none;
+    font-variant: none;
+    font-family: fantasy;
+    font-size: 20px;
+    color: steelblue;
+    text-transform:lowercase;
+    letter-spacing: 5px;
+}

@@ -1,0 +1,14 @@
+.profile-page{
+    text-align: center;
+}
+img{
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+p{
+    font-family: monospace;
+    font-size: 20px;
+    font-variant: small-caps;
+}
